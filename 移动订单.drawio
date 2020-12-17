@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T08:01:27.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="nzSlE1kzjh0Mlwktlq28" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T09:22:33.620Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="z3arqKWaFle0JFEJZuz2" version="14.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1773" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,10 +183,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6A41oJN5vltSQ22dziw2-65" value="Cancel&lt;br&gt;需要处理" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6A41oJN5vltSQ22dziw2-65" value="Cancel&lt;br&gt;处理" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6A41oJN5vltSQ22dziw2-67" value="&lt;span&gt;copy&lt;/span&gt;&lt;br&gt;&lt;span&gt;需要处理&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6A41oJN5vltSQ22dziw2-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-67" target="6A41oJN5vltSQ22dziw2-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-67" value="&lt;span&gt;copy&lt;/span&gt;&lt;br&gt;&lt;span&gt;处理&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6A41oJN5vltSQ22dziw2-69" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelBackgroundColor=#E6FFCC;fillColor=#0050ef;labelBorderColor=#CCFF99;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -376,6 +379,75 @@
         </mxCell>
         <mxCell id="6A41oJN5vltSQ22dziw2-147" value="&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 本次 Break 涉及到的 Order / SubOrder / ExecOrder */&lt;br&gt;&lt;/span&gt;Order &lt;span style=&quot;color: #9876aa&quot;&gt;breakOrder&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;SubOrder &lt;span style=&quot;color: #9876aa&quot;&gt;breakSubOrder&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;ExecOrder &lt;span style=&quot;color: #9876aa&quot;&gt;breakExecOrder&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 本次重排操作需要删除的 t_execution.id */&lt;br&gt;&lt;/span&gt;List&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;lt;&lt;/span&gt;String&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;gt; &lt;/span&gt;&lt;span style=&quot;color: #9876aa&quot;&gt;toDeleteExecutionIds&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 需要新增的Execution */&lt;br&gt;&lt;/span&gt;List&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;lt;&lt;/span&gt;ExecutionReorgCalculator.CreateExecutionResult&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;gt; &lt;/span&gt;&lt;span style=&quot;color: #9876aa&quot;&gt;toBeInsertList&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 需要更新的建仓明细 */&lt;br&gt;&lt;/span&gt;List&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;lt;&lt;/span&gt;ExecutionReorgCalculator.ToBeUpdateDbOpenPos&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;gt; &lt;/span&gt;&lt;span style=&quot;color: #9876aa&quot;&gt;toBeUpdateDbOpenPosList&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;fillColor=#FFFFFF;labelBackgroundColor=#ffffff;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1537.5" y="3177.81" width="582.5" height="161.87" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-152" target="6A41oJN5vltSQ22dziw2-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-152" target="6A41oJN5vltSQ22dziw2-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-152" value="构建参数" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-154" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 来源账户Id */&lt;br&gt;&lt;/span&gt;String &lt;span style=&quot;color: #9876aa&quot;&gt;srcAccountId&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 订单ID */&lt;br&gt;&lt;/span&gt;String &lt;span style=&quot;color: #9876aa&quot;&gt;srcOrderId&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 子订单ID */&lt;br&gt;&lt;/span&gt;String &lt;span style=&quot;color: #9876aa&quot;&gt;srcSubOrderId&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 执行订单ID */&lt;br&gt;&lt;/span&gt;String &lt;span style=&quot;color: #9876aa&quot;&gt;srcExecOrderId&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** breakId */&lt;br&gt;&lt;/span&gt;String &lt;span style=&quot;color: #9876aa&quot;&gt;breakId&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 目标账户ID */&lt;br&gt;&lt;/span&gt;String &lt;span style=&quot;color: #9876aa&quot;&gt;targetAccountId&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;fillColor=#FFFFFF;labelBackgroundColor=#ffffff;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-450" y="1850" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-156" target="6A41oJN5vltSQ22dziw2-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-156" target="6A41oJN5vltSQ22dziw2-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-156" value="&lt;span&gt;校验参数&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-158" value="&lt;div&gt;参数校验&lt;/div&gt;&lt;div&gt;t_exec_order&lt;/div&gt;&lt;div&gt;t_sub_order&lt;/div&gt;&lt;div&gt;t_order是否可用、状态&lt;/div&gt;&lt;div&gt;src_account是否存在&lt;/div&gt;&lt;div&gt;target_account&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;fillColor=#FFFFFF;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-430" y="2075" width="140" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-160" target="6A41oJN5vltSQ22dziw2-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-160" target="6A41oJN5vltSQ22dziw2-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-160" value="查询execution记录&lt;br&gt;execids" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="2170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-164" value="&lt;div&gt;t_execution&lt;/div&gt;&lt;div&gt;(srcAccount + execOrderId)&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-460" y="2220" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-166" target="6A41oJN5vltSQ22dziw2-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-166" target="6A41oJN5vltSQ22dziw2-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-166" value="src-&amp;gt;target&lt;br&gt;复制数据" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="2310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-168" value="&lt;div&gt;srcAccountInfo中读取的&lt;/div&gt;&lt;div&gt;order/execOrder/subOrder&lt;/div&gt;&lt;div&gt;/execution中填充&lt;/div&gt;&lt;div&gt;targetAccountInfo&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-430" y="2305" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-170" target="6A41oJN5vltSQ22dziw2-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-170" target="6A41oJN5vltSQ22dziw2-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-170" value="lastExecution.offset 之后的所有Execution.ID" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="2450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-172" value="t_execution》》&lt;br&gt;&lt;b&gt;targetAccountId&lt;/b&gt;、instrId、biz_offset&amp;gt;execids.bizOffset最后一个" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-440" y="2445" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-174" target="6A41oJN5vltSQ22dziw2-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-174" value="查询在 endOffset 之前的所有未平开仓，不包含 endOffset&lt;br&gt;&lt;b&gt;unCompletedOpenExecutions&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-170" y="2555" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-176" value="t_execution 》》&lt;br&gt;&lt;b&gt;srcAccountId&lt;/b&gt;,instrId,&lt;br&gt;biz_date&amp;lt;execids.bizOffset第一个" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-450" y="2550" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
