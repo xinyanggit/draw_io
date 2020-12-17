@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T03:32:24.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="VpnN0okMRvt4fhplQaTv" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T05:39:37.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="EoeTsysjHL0R3ZYfkpoz" version="14.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="946" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -127,7 +127,7 @@
           <mxGeometry x="240" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6A41oJN5vltSQ22dziw2-38" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /** breakId */&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; String breakId;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /** 账户Id */&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; String srcAccountId;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /** 订单ID */&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; String srcOrderId;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /** 子订单ID */&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; String srcSubOrderId;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /** 执行订单ID */&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; String srcExecOrderId;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /** targetAccountId,一般为 ErrorAccountNumber&amp;nbsp; */&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; String targetAccountId;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /** 备注 */&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; String comment;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;fillColor=#FFFFFF;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="880" width="390" height="240" as="geometry" />
+          <mxGeometry x="440" y="890" width="390" height="220" as="geometry" />
         </mxCell>
         <mxCell id="6A41oJN5vltSQ22dziw2-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-40" target="6A41oJN5vltSQ22dziw2-52">
           <mxGeometry relative="1" as="geometry" />
@@ -153,8 +153,98 @@
         <mxCell id="6A41oJN5vltSQ22dziw2-54" value="&lt;div&gt;&lt;span&gt;	&lt;/span&gt;/** 类型 */&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;private String type;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;/** 子类型 */&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;private String subType;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;/** 业务ID */&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;private String bizId;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;/** 操作人ID */&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;private String operatorId;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;/** 操作人名称 */&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;private String operatorName;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;/** 具体信息，可为json的请求参数 */&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;@EnableAES&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;private String detail;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;/** 修改前数据 */&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;private String beforeModify;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;/** 修改后数据 */&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;private String afterModify;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;/** IP地址 */&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;private String ip;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;/** 清算商ID */&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;private String firmId;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;/** 操作的执行客户账户号 */&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;private String accountId;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;/**客户ID**/&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;private String customerId;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;/** 备注 */&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;private String remark;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;fillColor=#FFFFFF;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="1190" width="390" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="6A41oJN5vltSQ22dziw2-59" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="1640" width="120" height="60" as="geometry" />
+        <mxCell id="6A41oJN5vltSQ22dziw2-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-59" target="6A41oJN5vltSQ22dziw2-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-59" target="6A41oJN5vltSQ22dziw2-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-59" value="订单服务开始处理" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-61" value="存储相关结果&lt;br&gt;MoveResult" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-63" target="6A41oJN5vltSQ22dziw2-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-63" value="是否缺少&lt;br&gt;关键参数校验" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-65" target="6A41oJN5vltSQ22dziw2-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-65" target="6A41oJN5vltSQ22dziw2-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="1830" />
+              <mxPoint x="700" y="1690" />
+              <mxPoint x="740" y="1690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-65" value="Cancel&lt;br&gt;需要处理" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-67" value="&lt;span&gt;copy&lt;/span&gt;&lt;br&gt;&lt;span&gt;需要处理&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-69" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelBackgroundColor=none;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="710" width="50" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-70" value="omnibus-clearing-bo-service&lt;br&gt;BO系统" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#FFFFFF;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="950" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-71" target="6A41oJN5vltSQ22dziw2-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-71" target="6A41oJN5vltSQ22dziw2-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-71" value="校验取消参数" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-74" value="&lt;div&gt;执行订单 t_exec_order&lt;/div&gt;&lt;div&gt;sub订单表 t_sub_order&lt;/div&gt;&lt;div&gt;订单表 t_order&amp;nbsp;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="1650" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-76" target="6A41oJN5vltSQ22dziw2-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-76" target="6A41oJN5vltSQ22dziw2-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-76" value="查询所有执行记录List" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-78" value="t_execution(account_id,exec_order_id)&lt;br&gt;排序 biz_offset asc" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="930" y="1757.5" width="260" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-80" target="6A41oJN5vltSQ22dziw2-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-80" target="6A41oJN5vltSQ22dziw2-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-80" value="执行的第一条记录&lt;br&gt;exectionlogId" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-84" value="&lt;span&gt;t_execution_log&lt;br&gt;执行日志&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="940" y="1867.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-86" target="6A41oJN5vltSQ22dziw2-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-86" value="查询账户信息" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-88" target="6A41oJN5vltSQ22dziw2-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-88" value="AccountInfo&lt;br&gt;包装" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="1995" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-90" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 账户ID */&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;private &lt;/span&gt;String &lt;span style=&quot;color: #9876aa&quot;&gt;accountId&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 客户ID */&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;private &lt;/span&gt;String &lt;span style=&quot;color: #9876aa&quot;&gt;customerId&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 账号 */&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;private &lt;/span&gt;String &lt;span style=&quot;color: #9876aa&quot;&gt;customerNumber&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 清算实体ID,枚举：Firm.name */&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;private &lt;/span&gt;String &lt;span style=&quot;color: #9876aa&quot;&gt;firmId&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 机构ID */&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;private &lt;/span&gt;String &lt;span style=&quot;color: #9876aa&quot;&gt;institutionId&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 账户类型 */&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;private &lt;/span&gt;AccountType &lt;span style=&quot;color: #9876aa&quot;&gt;type&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 账户状态  枚举：AccountState.name() */&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;private &lt;/span&gt;AccountState &lt;span style=&quot;color: #9876aa&quot;&gt;state&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 是否PDT Y/N */&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;private boolean &lt;/span&gt;&lt;span style=&quot;color: #9876aa&quot;&gt;pdt&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 账户分片 */&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;private &lt;/span&gt;Integer &lt;span style=&quot;color: #9876aa&quot;&gt;slot&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** TradeRestrict */&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;private &lt;/span&gt;TradeRestrictType &lt;span style=&quot;color: #9876aa&quot;&gt;tradeRestrict&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 是否允许订单路由 Y/N */&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;private &lt;/span&gt;Boolean &lt;span style=&quot;color: #9876aa&quot;&gt;enableOrderRouter&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 默认订单执行商 */&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;private &lt;/span&gt;String &lt;span style=&quot;color: #9876aa&quot;&gt;defaultExecBroker&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 是否允许是否未结算资金建仓，只有true的时候表示不允许 */&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;private &lt;/span&gt;Boolean &lt;span style=&quot;color: #9876aa&quot;&gt;settledFundsOpenPostionOnly&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;fillColor=#FFFFFF;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1234" y="1820" width="420" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
