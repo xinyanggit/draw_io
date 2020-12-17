@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T09:22:33.620Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="z3arqKWaFle0JFEJZuz2" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T10:01:17.995Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="7WWOX3gtfk1iSgk0hGP8" version="14.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1773" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,8 +162,11 @@
         <mxCell id="6A41oJN5vltSQ22dziw2-59" value="订单服务开始处理" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-210" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-61" target="6A41oJN5vltSQ22dziw2-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6A41oJN5vltSQ22dziw2-61" value="存储最后执行的结果&lt;br&gt;MoveResult" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="2060" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="2170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6A41oJN5vltSQ22dziw2-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-63" target="6A41oJN5vltSQ22dziw2-65">
           <mxGeometry relative="1" as="geometry" />
@@ -187,6 +190,9 @@
           <mxGeometry x="410" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6A41oJN5vltSQ22dziw2-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-67" target="6A41oJN5vltSQ22dziw2-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-67" target="6A41oJN5vltSQ22dziw2-205">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6A41oJN5vltSQ22dziw2-67" value="&lt;span&gt;copy&lt;/span&gt;&lt;br&gt;&lt;span&gt;处理&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -359,7 +365,7 @@
         <mxCell id="6A41oJN5vltSQ22dziw2-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-139" target="6A41oJN5vltSQ22dziw2-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6A41oJN5vltSQ22dziw2-139" value="&lt;div&gt;读取Log记录。&lt;/div&gt;&lt;div&gt;新构建CreateExecutionResult&lt;/div&gt;&lt;div&gt;newExecution、newExecutionLog&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6A41oJN5vltSQ22dziw2-139" value="&lt;div&gt;读取Log记录。&lt;/div&gt;&lt;div&gt;新构建CreateExecutionResult&lt;/div&gt;&lt;div&gt;{newExecution、newExecutionLog}&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1266.25" y="3000" width="167.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6A41oJN5vltSQ22dziw2-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-141" target="6A41oJN5vltSQ22dziw2-145">
@@ -434,8 +440,8 @@
         <mxCell id="6A41oJN5vltSQ22dziw2-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-170" target="6A41oJN5vltSQ22dziw2-174">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6A41oJN5vltSQ22dziw2-170" value="lastExecution.offset 之后的所有Execution.ID" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-140" y="2450" width="120" height="60" as="geometry" />
+        <mxCell id="6A41oJN5vltSQ22dziw2-170" value="lastExecution.offset 之后的所有Execution.ID&lt;br&gt;需要删除的executionId&lt;br&gt;executionIds" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-145" y="2450" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6A41oJN5vltSQ22dziw2-172" value="t_execution》》&lt;br&gt;&lt;b&gt;targetAccountId&lt;/b&gt;、instrId、biz_offset&amp;gt;execids.bizOffset最后一个" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-440" y="2445" width="160" height="70" as="geometry" />
@@ -443,11 +449,87 @@
         <mxCell id="6A41oJN5vltSQ22dziw2-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-174" target="6A41oJN5vltSQ22dziw2-176">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-174" target="6A41oJN5vltSQ22dziw2-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6A41oJN5vltSQ22dziw2-174" value="查询在 endOffset 之前的所有未平开仓，不包含 endOffset&lt;br&gt;&lt;b&gt;unCompletedOpenExecutions&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-170" y="2555" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6A41oJN5vltSQ22dziw2-176" value="t_execution 》》&lt;br&gt;&lt;b&gt;srcAccountId&lt;/b&gt;,instrId,&lt;br&gt;biz_date&amp;lt;execids.bizOffset第一个" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-450" y="2550" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-178" target="6A41oJN5vltSQ22dziw2-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-178" target="6A41oJN5vltSQ22dziw2-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-178" value="FixReorgRequest&lt;br&gt;对象构建" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="2710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-183" value="&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** RequestId 用于串起相关的日志记录 */&lt;br&gt;&lt;/span&gt;String &lt;span style=&quot;color: #9876aa&quot;&gt;requestId&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** true: cancel , false: correct */&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;boolean &lt;/span&gt;&lt;span style=&quot;color: #9876aa&quot;&gt;isCancel&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** Execution Cancel / Correct Request */&lt;br&gt;&lt;/span&gt;FixExecutionBreakReq &lt;span style=&quot;color: #9876aa&quot;&gt;req&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 本次 Cancel / Correct 对应的SubOrder */&lt;br&gt;&lt;/span&gt;Order &lt;span style=&quot;color: #9876aa&quot;&gt;order&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;ExecOrder &lt;span style=&quot;color: #9876aa&quot;&gt;execOrder&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;SubOrder &lt;span style=&quot;color: #9876aa&quot;&gt;subOrder&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 本次要取消或者要修正的Execution变更前的持仓信息 */&lt;br&gt;&lt;/span&gt;PosInfo &lt;span style=&quot;color: #9876aa&quot;&gt;posBeforeExecution&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 本次要取消的Execution */&lt;br&gt;&lt;/span&gt;List&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;lt;&lt;/span&gt;Execution&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;gt; &lt;/span&gt;&lt;span style=&quot;color: #9876aa&quot;&gt;thisExecutions&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 本次要取消或者修正的Execution之后的所有ExecutionLog */&lt;br&gt;&lt;/span&gt;List&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;lt;&lt;/span&gt;ExecutionForPosLog&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;gt; &lt;/span&gt;&lt;span style=&quot;color: #9876aa&quot;&gt;posLogsAfterOffset&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;executions最后一条记录-查询在 offset 之后的所有Execution.id 列表&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;t_execution（account_id，instr_id，status，biz_offset&amp;gt;）&lt;/font&gt;&lt;/pre&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#FFFFFF;align=left;labelBackgroundColor=#ffffff;labelBorderColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-730" y="2660" width="460" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-185" target="6A41oJN5vltSQ22dziw2-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-185" value="FixExecutionBreakReq&lt;br&gt;设置相关参数、数量、总数等" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-165" y="2850" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-187" target="6A41oJN5vltSQ22dziw2-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-187" target="6A41oJN5vltSQ22dziw2-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-187" value="本次要取消或者修正的Execution之后的所有ExecutionLog" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="2990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-189" value="executionIds转换成exec_log 记录存储" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-340" y="2990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-191" value="进行倒排" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="3130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="6A41oJN5vltSQ22dziw2-196">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-81.25" y="3190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-196" target="6A41oJN5vltSQ22dziw2-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-195" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-196" target="6A41oJN5vltSQ22dziw2-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-196" value="&lt;div&gt;读取Log记录。&lt;/div&gt;&lt;div&gt;新构建CreateExecutionResult&lt;/div&gt;&lt;div&gt;{newExecution、newExecutionLog}&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-165" y="3237" width="167.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-198" target="6A41oJN5vltSQ22dziw2-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-198" value="&lt;div&gt;平仓处理后，根据平仓情况，对原有Execution和新增的Execution数据进行修正&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-146.25" y="3367" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-199" value="对建平仓进行重新计算处理" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="106.25" y="3252" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#E6FFCC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6A41oJN5vltSQ22dziw2-201" target="6A41oJN5vltSQ22dziw2-203">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="106.25" y="3495.745" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-201" value="ReorgResult" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-141.25" y="3477" width="120" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-203" value="&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 本次 Break 涉及到的 Order / SubOrder / ExecOrder */&lt;br&gt;&lt;/span&gt;Order &lt;span style=&quot;color: #9876aa&quot;&gt;breakOrder&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;SubOrder &lt;span style=&quot;color: #9876aa&quot;&gt;breakSubOrder&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;ExecOrder &lt;span style=&quot;color: #9876aa&quot;&gt;breakExecOrder&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 本次重排操作需要删除的 t_execution.id */&lt;br&gt;&lt;/span&gt;List&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;lt;&lt;/span&gt;String&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;gt; &lt;/span&gt;&lt;span style=&quot;color: #9876aa&quot;&gt;toDeleteExecutionIds&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 需要新增的Execution */&lt;br&gt;&lt;/span&gt;List&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;lt;&lt;/span&gt;ExecutionReorgCalculator.CreateExecutionResult&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;gt; &lt;/span&gt;&lt;span style=&quot;color: #9876aa&quot;&gt;toBeInsertList&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #629755 ; font-style: italic&quot;&gt;/** 需要更新的建仓明细 */&lt;br&gt;&lt;/span&gt;List&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;lt;&lt;/span&gt;ExecutionReorgCalculator.ToBeUpdateDbOpenPos&lt;span style=&quot;color: #9876aa ; font-style: italic&quot;&gt;&amp;gt; &lt;/span&gt;&lt;span style=&quot;color: #9876aa&quot;&gt;toBeUpdateDbOpenPosList&lt;/span&gt;&lt;span style=&quot;color: #cc7832&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;fillColor=#FFFFFF;labelBackgroundColor=#ffffff;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="142.5" y="3414.81" width="582.5" height="161.87" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-205" value="结果合并" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A41oJN5vltSQ22dziw2-209" value="&lt;div&gt;批量保存需要新增的CreateExecutionResult.newExecution ==&amp;gt;t_execution&lt;/div&gt;&lt;div&gt;批量保存需要新增的CreateExecutionResult.newExecutionLog ==&amp;gt;t_execution_log&lt;/div&gt;&lt;div&gt;删除 MoveResult.toDeleteExecutionIds ==&amp;gt;t_execution 逻辑删除 set null&amp;nbsp;&lt;/div&gt;&lt;div&gt;保存创建新增订单MoveResult.toBeInsertSubOrder&amp;nbsp; ==&amp;gt;t_order&lt;/div&gt;&lt;div&gt;保存 MoveResult.toBeInsertExecOrder ==&amp;gt;t_sub_order、t_exec_order&lt;/div&gt;&lt;div&gt;更新订单状态t_order、t_sub_order、t_exec_order状态&lt;/div&gt;&lt;div&gt;批量更新建仓明细MoveResult.toBeUpdateDbOpenPosList==&amp;gt;t_execution&lt;/div&gt;&lt;div&gt;tradeBroker 日志记录==&amp;gt;t_execution_break_log&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="2360" width="430" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
