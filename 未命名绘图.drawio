@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T13:42:10.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="taTIXna_m2cyTbAOLGuU" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T13:50:44.128Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="2jGtNu6w-v6T645yqb4P" version="14.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2121" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
           <mxGeometry x="450" y="1040" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-42" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="1490" width="100" height="60" as="geometry" />
+          <mxGeometry x="515" y="1520" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-43" target="1Uik45kLceN-WnxneO16-45">
           <mxGeometry relative="1" as="geometry" />
@@ -143,16 +143,11 @@
         <mxCell id="1Uik45kLceN-WnxneO16-47" value="&lt;b&gt;在送清算之前，进行重排处理。&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="1100" width="180" as="geometry" />
         </mxCell>
-        <mxCell id="1Uik45kLceN-WnxneO16-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-48" target="1Uik45kLceN-WnxneO16-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="680" y="1400" />
-              <mxPoint x="510" y="1400" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="1Uik45kLceN-WnxneO16-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-48" target="1Uik45kLceN-WnxneO16-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-48" value="发送通知告知&lt;br&gt;相关人员" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="505" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-51" target="1Uik45kLceN-WnxneO16-53">
           <mxGeometry relative="1" as="geometry" />
@@ -160,11 +155,8 @@
         <mxCell id="1Uik45kLceN-WnxneO16-51" value="按着execOrderId取出execution 按着bizoffset排序" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Uik45kLceN-WnxneO16-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="1473" as="targetPoint" />
-            <mxPoint x="390" y="1398" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="1Uik45kLceN-WnxneO16-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-53" target="1Uik45kLceN-WnxneO16-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-53" value="进行数据的重放&lt;br&gt;exection_log、&lt;br&gt;execution &lt;br&gt;相关重放数据.&lt;br&gt;删掉之前的execution&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="251.88" y="1360" width="136.25" height="70" as="geometry" />
@@ -179,7 +171,7 @@
           <mxGeometry x="450" y="1680" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-60" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="2470" width="100" height="60" as="geometry" />
+          <mxGeometry x="450" y="2530" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-61" target="1Uik45kLceN-WnxneO16-63">
           <mxGeometry relative="1" as="geometry" />
@@ -238,7 +230,10 @@
           <mxGeometry x="1010" y="1690" width="290" height="250" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-76" value="&lt;div&gt;execution{&lt;/div&gt;&lt;div&gt;type:“trade_correction”&lt;/div&gt;&lt;div&gt;reason_code:&quot;&lt;b&gt;trade_break_trade_correction&lt;/b&gt;&quot;,&lt;/div&gt;&lt;div&gt;original_exec_id:&quot;原始记录的execId&quot;,&lt;/div&gt;&lt;div&gt;symbol:&quot;同修改前的记录&quot;,&lt;/div&gt;&lt;div&gt;&lt;b&gt;side:&quot;同修改前的记录一致&quot;&lt;/b&gt;,&lt;/div&gt;&lt;div&gt;status:&quot;normal&quot;,&lt;/div&gt;&lt;div&gt;&quot;成交价格&quot;:&quot;修改后的&quot;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;exec_time&quot;：&quot;修改前的记录的时间处理&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&quot;biz_offset&quot;:&quot;&lt;/b&gt;old_execution.biz_offset+1&lt;b&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&quot;其它相关属性不变化&quot;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;....&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;old_execution 状态修改为&lt;b&gt;break&lt;/b&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-460" y="1690" width="390" height="240" as="geometry" />
+          <mxGeometry x="-400" y="1690" width="300" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-77" target="1Uik45kLceN-WnxneO16-83">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-77" value="调用交易引擎-&lt;br&gt;进行资产变更" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="2200" width="120" height="60" as="geometry" />
@@ -246,8 +241,14 @@
         <mxCell id="1Uik45kLceN-WnxneO16-81" value="&lt;div&gt;取消记录&lt;/div&gt;&lt;div&gt;execution{&lt;/div&gt;&lt;div&gt;type:“rebuild_cancel”&lt;/div&gt;&lt;div&gt;reason_code:&quot;&lt;b&gt;Trade break，trade cancel rebuild, cancel execution&lt;/b&gt;&quot;,&lt;/div&gt;&lt;div&gt;original_exec_id:&quot;old_execId&quot;,&lt;/div&gt;&lt;div&gt;symbol:&quot;同old&quot;,&lt;/div&gt;&lt;div&gt;&lt;b&gt;side:&quot;同修改前的记录相反&quot;&lt;/b&gt;,&lt;/div&gt;&lt;div&gt;status:&quot;normal&quot;,&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;exec_time&quot;：&quot;修改前的记录的时间处理&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&quot;biz_offset&quot;:&quot;&lt;/b&gt;old_execution.biz_offset+1&lt;b&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&quot;其它相关属性不变化&quot;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;....&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;old_execution 状态修改为&amp;nbsp;&lt;b&gt;break&lt;/b&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="1890" width="280" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="1Uik45kLceN-WnxneO16-82" value="&lt;div&gt;新增记录&lt;/div&gt;&lt;div&gt;execution{&lt;/div&gt;&lt;div&gt;type:“rebuild_rebuild”&lt;/div&gt;&lt;div&gt;reason_code:&quot;&lt;b&gt;Trade break，trade cancel rebuild, rebuild execution&lt;/b&gt;&quot;,&lt;/div&gt;&lt;div&gt;original_exec_id:&quot;old_execId&quot;,&lt;/div&gt;&lt;div&gt;symbol:&quot;同修改前的记录&quot;,&lt;/div&gt;&lt;div&gt;&lt;b&gt;side:&quot;同old&quot;&lt;/b&gt;,&lt;/div&gt;&lt;div&gt;status:&quot;normal&quot;,&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;exec_time&quot;：&quot;修改前的记录的时间处理&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&quot;biz_offset&quot;:&quot;&lt;/b&gt;old_execution.biz_offset+1&lt;b&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&quot;其它相关属性不变化&quot;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;....&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;old_execution 状态修改 &lt;b&gt;break&lt;/b&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1Uik45kLceN-WnxneO16-82" value="&lt;div&gt;新增记录&lt;/div&gt;&lt;div&gt;execution{&lt;/div&gt;&lt;div&gt;type:“rebuild_rebuild”&lt;/div&gt;&lt;div&gt;reason_code:&quot;&lt;b&gt;Trade break，trade cancel rebuild, rebuild execution&lt;/b&gt;&quot;,&lt;/div&gt;&lt;div&gt;original_exec_id:&quot;old_execId&quot;,&lt;/div&gt;&lt;div&gt;symbol:&quot;同修改前的记录&quot;,&lt;/div&gt;&lt;div&gt;&lt;b&gt;side:&quot;同old&quot;&lt;/b&gt;,&lt;/div&gt;&lt;div&gt;status:&quot;normal&quot;,&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;exec_time&quot;：&quot;修改前的记录的时间处理&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&quot;biz_offset&quot;:&quot;&lt;/b&gt;old_execution.biz_offset+2&lt;b&gt;&quot;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&quot;其它相关属性不变化&quot;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;....&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;old_execution 状态修改 &lt;b&gt;break&lt;/b&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="65" y="1900" width="295" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-83" target="1Uik45kLceN-WnxneO16-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-83" value="记录execu_id" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="2340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
