@@ -1,1 +1,337 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T12:43:34.088Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wrv-eYFv32Zjjk0zkXu4" version="14.1.1" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-23T13:24:16.256Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8XofbqQPW-ov5MmW2Vsc" version="14.1.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="3623" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="1Uik45kLceN-WnxneO16-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;日内处理/EOD处理-调账处理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="490" y="-310" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;shadow=0;strokeColor=#FF6666;entryX=-0.016;entryY=0.411;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-18" target="l4X3YuBK7rbhBfaj7fvv-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="832.5" y="2" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770.5" y="4" />
+              <mxPoint x="770.5" y="2" />
+              <mxPoint x="839.5" y="2" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-47" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#FFCCCC;shadow=0;" parent="l4X3YuBK7rbhBfaj7fvv-17" vertex="1" connectable="0">
+          <mxGeometry x="0.2076" y="1" relative="1" as="geometry">
+            <mxPoint x="-8.76" y="0.2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-3" value="FIX" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FF9763;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="327.97" y="-78.80000000000001" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-10" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-13" target="1Uik45kLceN-WnxneO16-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-13" target="1Uik45kLceN-WnxneO16-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-13" value="type类型" style="rhombus;whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="450" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-14" target="1Uik45kLceN-WnxneO16-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-14" value="correction&lt;br&gt;修改" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-16" target="1Uik45kLceN-WnxneO16-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-16" value="cancel&lt;br&gt;取消" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="590" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DPZnmQHG7aTlUrMJ72Gz-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-18" target="1Uik45kLceN-WnxneO16-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-18" value="新建日志记录&lt;br&gt;一条correction数据" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-23" value="&lt;u&gt;调用交易引擎-&lt;br&gt;进行资产变更、fix消息最先达到交易引擎、&lt;br&gt;已经触发了更新资产、不需要我们调用触发&lt;/u&gt;" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="65" y="700" width="285" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-29" value="新建日志记录&lt;br&gt;一条type=correction数据" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="590" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-31" value="&lt;div&gt;记录日志&lt;/div&gt;&lt;div&gt;t_execution_fix_break_log{&lt;/div&gt;&lt;div&gt;&quot;id&quot;:&quot;主键&quot;,&lt;/div&gt;&lt;div&gt;&quot;original_exec_id&quot;:&quot;old_execution_Id&quot;,&lt;/div&gt;&lt;div&gt;&quot;order_id&quot;:&quot;订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;sub_order_id&quot;:&quot;子订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_order_id&quot;:&quot;执行订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;account_id&quot;:&quot;账户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;customer_id&quot;:&quot;客户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;ticker_id&quot;:&quot;标的id&quot;,&lt;/div&gt;&lt;div&gt;&quot;trade_side&quot;:&quot;交易方向&quot;,&lt;/div&gt;&lt;div&gt;&quot;type&quot;:&quot;open/close&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_type&quot;:&quot;trade_cancel&quot;,&lt;/div&gt;&lt;div&gt;&quot;total_quantity&quot;:&quot;总建仓数据&quot;,&lt;/div&gt;&lt;div&gt;&quot;remain_quantity&quot;:&quot;建仓: 表示剩余未平数量, 平仓: 和totalQuantity相同&quot;,&lt;/div&gt;&lt;div&gt;&quot;strike_price&quot;:&quot;成交价&quot;,&lt;/div&gt;&lt;div&gt;&quot;symbol&quot;:&quot;标的属性&quot;,&lt;/div&gt;&lt;div&gt;&quot;reason_code&quot;:&quot;trade_cancel&quot;,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;content&quot;:&quot;请求的相关参数&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;pre_exec_info&quot;:&quot;发生之前的execution相关信息存储&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&quot;create_time&quot;:&quot;创建时间&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="720" y="300" width="360" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-33" target="1Uik45kLceN-WnxneO16-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPZnmQHG7aTlUrMJ72Gz-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-33" target="1Uik45kLceN-WnxneO16-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adp1p2bU9cSPGHExOtuO-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-33" target="1Uik45kLceN-WnxneO16-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-33" value="记录exec_id --&lt;br&gt;盘后订单execution&lt;br&gt;重排" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-35" value="结束" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="780" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-37" value="存储DB" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="670" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-39" value="&lt;div&gt;需要重排execId数据&lt;/div&gt;&lt;div&gt;t_replay_execution&lt;span&gt;{&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;id&quot;:&quot;主键&quot;,&lt;/div&gt;&lt;div&gt;&quot;execId&quot;:&quot;执行订单id，如果存在重复的，程序去重处理&quot;,&lt;/div&gt;&lt;div&gt;&quot;status&quot;:&quot;是否已经执行过0未执行 1已执行&quot;,&lt;/div&gt;&lt;div&gt;&quot;type&quot;:&quot;类型 1 fix日内 2 fix Eod&quot;,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;create_time&quot;:&quot;创建时间&quot;,&lt;/div&gt;&lt;div&gt;&quot;update_time&quot;:&quot;更新时间&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="800" y="660" width="320" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-40" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;日内处理/EOD处理-execution重排处理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="335" y="990" width="330" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-41" target="1Uik45kLceN-WnxneO16-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-41" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="450" y="1040" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-42" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="515" y="1520" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-43" target="1Uik45kLceN-WnxneO16-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-43" value="定时任务启动/或者人为触发，&lt;br&gt;检测是否存在&lt;span style=&quot;text-align: left&quot;&gt;重排数据&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;t_replay_execution&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;需要处理&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="415" y="1140" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-49" value="不存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-45" target="1Uik45kLceN-WnxneO16-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-45" target="1Uik45kLceN-WnxneO16-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-45" value="是否存在重排&lt;br&gt;数据需要执行" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="450" y="1240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-47" value="&lt;b&gt;在送清算之前，进行重排处理。&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="180" y="1100" width="180" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-48" target="1Uik45kLceN-WnxneO16-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-48" value="发送通知告知&lt;br&gt;相关人员" style="whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="505" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-51" target="1Uik45kLceN-WnxneO16-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-51" value="按着execOrderId取出execution 按着bizoffset排序" style="whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="260" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-53" target="1Uik45kLceN-WnxneO16-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-53" target="l4X3YuBK7rbhBfaj7fvv-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-53" value="进行数据的重放&lt;br&gt;exection_log、&lt;br&gt;execution &lt;br&gt;相关重放数据.&lt;br&gt;update之前的executionId&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="230" y="1360" width="179.06" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-57" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;清算商调账&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="350" y="1610" width="330" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-59" target="1Uik45kLceN-WnxneO16-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-59" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="1790" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-60" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="640" y="2497" width="100" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-61" target="1Uik45kLceN-WnxneO16-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-61" target="1Uik45kLceN-WnxneO16-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-61" target="1Uik45kLceN-WnxneO16-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-61" value="type" style="rhombus;whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="1894" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-63" target="1Uik45kLceN-WnxneO16-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-63" value="Trade Cancel&lt;br&gt;取消execution" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="1889" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-65" target="1Uik45kLceN-WnxneO16-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-65" value="Trade Correction&lt;br&gt;修改记录&lt;br&gt;成交价格不对" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="246.24" y="1889" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-67" target="1Uik45kLceN-WnxneO16-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-67" value="Trade Cancel rebuild&lt;br&gt;取消订单-重新下单" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="470" y="2004" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-69" target="1Uik45kLceN-WnxneO16-77" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="2360" />
+              <mxPoint x="470" y="2360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-69" value="新增一条log&lt;br&gt;直接修改execution的记录" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="1886.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-71" target="1Uik45kLceN-WnxneO16-77" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1004" y="1949" />
+              <mxPoint x="1000" y="1949" />
+              <mxPoint x="1000" y="2354" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-71" value="新增一条break_log&lt;br&gt;直接修改execution记录" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="940" y="1889" width="127.5" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-73" target="1Uik45kLceN-WnxneO16-77" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="526" y="2262" />
+              <mxPoint x="530" y="2262" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-73" value="新增两条记录break_log记录&lt;br&gt;一条cancel、一条rebuild&lt;br&gt;修改的成交数量" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="432.5" y="2144" width="187.5" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-76" value="&lt;div&gt;记录日志&lt;/div&gt;&lt;div&gt;t_execution_fix_break_log{&lt;/div&gt;&lt;div&gt;&quot;id&quot;:&quot;主键&quot;,&lt;/div&gt;&lt;div&gt;&quot;original_exec_id&quot;:&quot;old_execution_Id&quot;,&lt;/div&gt;&lt;div&gt;&quot;order_id&quot;:&quot;订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;sub_order_id&quot;:&quot;子订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_order_id&quot;:&quot;执行订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;account_id&quot;:&quot;账户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;customer_id&quot;:&quot;客户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;ticker_id&quot;:&quot;标的id&quot;,&lt;/div&gt;&lt;div&gt;&quot;trade_side&quot;:&quot;交易方向&quot;,&lt;/div&gt;&lt;div&gt;&quot;type&quot;:&quot;open/close&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_type&quot;:&quot;trade_break_correction&quot;,&lt;/div&gt;&lt;div&gt;&quot;total_quantity&quot;:&quot;总建仓数据&quot;,&lt;/div&gt;&lt;div&gt;&quot;remain_quantity&quot;:&quot;建仓: 表示剩余未平数量, 平仓: 和totalQuantity相同&quot;,&lt;/div&gt;&lt;div&gt;&quot;strike_price&quot;:&quot;成交价&quot;,&lt;/div&gt;&lt;div&gt;&quot;symbol&quot;:&quot;标的属性&quot;,&lt;/div&gt;&lt;div&gt;&quot;reason_code&quot;:&quot;trade_break_correction&quot;,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;content&quot;:&quot;请求的相关参数&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;pre_exec_info&quot;:&quot;发生之前的execution相关信息存储&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&quot;create_time&quot;:&quot;创建时间&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-350" y="1770" width="340" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-77" target="1Uik45kLceN-WnxneO16-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-77" value="调用交易引擎-&lt;br&gt;进行资产变更&lt;br&gt;盘后是否能？" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="470" y="2324" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-83" target="l4X3YuBK7rbhBfaj7fvv-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Uik45kLceN-WnxneO16-83" value="execution重排" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="470" y="2410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-0" value="&lt;div&gt;记录日志&lt;/div&gt;&lt;div&gt;t_execution_fix_break_log{&lt;/div&gt;&lt;div&gt;&quot;id&quot;:&quot;主键&quot;,&lt;/div&gt;&lt;div&gt;&quot;original_exec_id&quot;:&quot;old_execution_Id&quot;,&lt;/div&gt;&lt;div&gt;&quot;order_id&quot;:&quot;订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;sub_order_id&quot;:&quot;子订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_order_id&quot;:&quot;执行订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;account_id&quot;:&quot;账户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;customer_id&quot;:&quot;客户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;ticker_id&quot;:&quot;标的id&quot;,&lt;/div&gt;&lt;div&gt;&quot;trade_side&quot;:&quot;交易方向&quot;,&lt;/div&gt;&lt;div&gt;&quot;type&quot;:&quot;open/close&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_type&quot;:&quot;trade_correction&quot;,&lt;/div&gt;&lt;div&gt;&quot;total_quantity&quot;:&quot;总建仓数据&quot;,&lt;/div&gt;&lt;div&gt;&quot;remain_quantity&quot;:&quot;建仓: 表示剩余未平数量, 平仓: 和totalQuantity相同&quot;,&lt;/div&gt;&lt;div&gt;&quot;strike_price&quot;:&quot;成交价&quot;,&lt;/div&gt;&lt;div&gt;&quot;symbol&quot;:&quot;标的属性&quot;,&lt;/div&gt;&lt;div&gt;&quot;reason_code&quot;:&quot;trade_correction&quot;,&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;content&quot;:&quot;请求的相关参数&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;pre_exec_info&quot;:&quot;发生之前的execution相关信息存储&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&quot;create_time&quot;:&quot;创建时间&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-70" y="300" width="320" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-8" value="execution重排&lt;br&gt;execution的count不变&lt;br&gt;要保证execId不变化，&lt;br&gt;做更新操作" style="whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;strokeColor=#FF6666;fillColor=#FFCCCC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-27.18" y="1360" width="147.18" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-10" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;具体的fix消息返回内容的&lt;/span&gt;&lt;span&gt;具体格式？&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;因为涉及到两个过程 日内/EOD处理&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;execution- 新增-字段&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;exec_type&lt;/b&gt;&amp;nbsp;= (Transaction 默认、trade_cancel 取消、trade_correction 修正、rebuild_cancel、rebuild_rebuild、break_banance_close、break_banance)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;exec_status&lt;/b&gt;&amp;nbsp;(新增类型 normal、break_cancel、break_correction、break_cancel_rebuild、closed)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;reason_code&lt;/b&gt;&amp;nbsp;( Trade_break_Cancel、Trade_break_Correction、Trade_cancel_rebuild)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;original_exec_id&lt;/b&gt;:&quot;原始记录的execId,能否直接用ref_open_id&quot;,&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-700" y="480" width="410" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-11" target="1Uik45kLceN-WnxneO16-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-11" value="更新&lt;br&gt;order、&lt;br&gt;sub_order、exec_order" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="470" y="2490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-16" value="" style="shape=link;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-450" y="1670" as="sourcePoint" />
+            <mxPoint x="1338" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-18" value="&lt;b&gt;Fix type=cancel/correction&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#1A1A1A;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="541.56" y="-10" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.017;entryY=0.838;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#1A1A1A;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-3" target="l4X3YuBK7rbhBfaj7fvv-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="443.1699999999996" y="-22.799999999999955" as="sourcePoint" />
+            <mxPoint x="830.46" y="-12.960000000000036" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.068;entryY=0.937;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#FF9999;fillColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-21" target="l4X3YuBK7rbhBfaj7fvv-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-39" value="SOD对账" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];shadow=0;" parent="l4X3YuBK7rbhBfaj7fvv-38" vertex="1" connectable="0">
+          <mxGeometry x="-0.1567" relative="1" as="geometry">
+            <mxPoint x="-20.7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-21" value="清算商" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFCC99;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="345.5" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#1A1A1A;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.068;exitY=0.063;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-23" target="1Uik45kLceN-WnxneO16-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="533.44" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-27" value="送FIX 执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];shadow=0;" parent="l4X3YuBK7rbhBfaj7fvv-25" vertex="1" connectable="0">
+          <mxGeometry x="0.1296" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#1A1A1A;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-23" target="l4X3YuBK7rbhBfaj7fvv-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="842.6800000000001" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-37" value="送清算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];shadow=0;" parent="l4X3YuBK7rbhBfaj7fvv-36" vertex="1" connectable="0">
+          <mxGeometry x="0.266" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-23" value="WEBULL" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#1A1A1A;fillColor=#CCFFFF;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="842.5" y="-70" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#1A1A1A;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-29" target="l4X3YuBK7rbhBfaj7fvv-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#1A1A1A;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-29" target="l4X3YuBK7rbhBfaj7fvv-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="262.5" y="-88.8" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-34" value="日内" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="112.5" y="-100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#1A1A1A;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-40" target="l4X3YuBK7rbhBfaj7fvv-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="262.5" y="50" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-41" value="清算处理阶段" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="97.5" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-44" value="盘后fix EOD" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="112.5" y="-18.8" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="adp1p2bU9cSPGHExOtuO-2" value="&lt;div&gt;记录日志&lt;/div&gt;&lt;div&gt;t_execution_fix_break_log{&lt;/div&gt;&lt;div&gt;&quot;id&quot;:&quot;主键&quot;,&lt;/div&gt;&lt;div&gt;&quot;original_exec_id&quot;:&quot;old_execution_Id&quot;,&lt;/div&gt;&lt;div&gt;&quot;order_id&quot;:&quot;订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;sub_order_id&quot;:&quot;子订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_order_id&quot;:&quot;执行订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;account_id&quot;:&quot;账户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;customer_id&quot;:&quot;客户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;ticker_id&quot;:&quot;标的id&quot;,&lt;/div&gt;&lt;div&gt;&quot;trade_side&quot;:&quot;交易方向&quot;,&lt;/div&gt;&lt;div&gt;&quot;type&quot;:&quot;open/close&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_type&quot;:&quot;trade_break_correction&quot;,&lt;/div&gt;&lt;div&gt;&quot;total_quantity&quot;:&quot;总建仓数据&quot;,&lt;/div&gt;&lt;div&gt;&quot;remain_quantity&quot;:&quot;建仓: 表示剩余未平数量, 平仓: 和totalQuantity相同&quot;,&lt;/div&gt;&lt;div&gt;&quot;strike_price&quot;:&quot;成交价&quot;,&lt;/div&gt;&lt;div&gt;&quot;symbol&quot;:&quot;标的属性&quot;,&lt;/div&gt;&lt;div&gt;&quot;reason_code&quot;:&quot;trade_break_concel&quot;,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;content&quot;:&quot;请求的相关参数&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;pre_exec_info&quot;:&quot;发生之前的execution相关信息存储&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&quot;create_time&quot;:&quot;创建时间&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1080" y="1760" width="340" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="adp1p2bU9cSPGHExOtuO-6" value="&lt;div style=&quot;text-align: left&quot;&gt;1、针对execution_id,不存在数据的时候，在日志记录中没有数据的时候，第一次需要将execution的记录存入log，然后将修改的记录存入,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;2、针对execution_id,存在数据时候，则新增一条记录即可&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF6666;fillColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-694" y="2540" width="759" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="adp1p2bU9cSPGHExOtuO-7" value="&lt;div&gt;记录日志&lt;/div&gt;&lt;div&gt;t_execution_fix_break_log{&lt;/div&gt;&lt;div&gt;&quot;id&quot;:&quot;主键&quot;,&lt;/div&gt;&lt;div&gt;&quot;original_exec_id&quot;:&quot;old_execution_Id&quot;,&lt;/div&gt;&lt;div&gt;&quot;order_id&quot;:&quot;订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;sub_order_id&quot;:&quot;子订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_order_id&quot;:&quot;执行订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;account_id&quot;:&quot;账户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;customer_id&quot;:&quot;客户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;ticker_id&quot;:&quot;标的id&quot;,&lt;/div&gt;&lt;div&gt;&quot;trade_side&quot;:&quot;交易方向&quot;,&lt;/div&gt;&lt;div&gt;&quot;type&quot;:&quot;open/close&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_type&quot;:&quot;trade_break_correction&quot;,&lt;/div&gt;&lt;div&gt;&quot;total_quantity&quot;:&quot;总建仓数据&quot;,&lt;/div&gt;&lt;div&gt;&quot;remain_quantity&quot;:&quot;建仓: 表示剩余未平数量, 平仓: 和totalQuantity相同&quot;,&lt;/div&gt;&lt;div&gt;&quot;strike_price&quot;:&quot;成交价&quot;,&lt;/div&gt;&lt;div&gt;&quot;symbol&quot;:&quot;标的属性&quot;,&lt;/div&gt;&lt;div&gt;&quot;reason_code&quot;:&quot;trade_break_concel&quot;,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;content&quot;:&quot;请求的相关参数&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;pre_exec_info&quot;:&quot;发生之前的execution相关信息存储&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&quot;create_time&quot;:&quot;创建时间&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="1984" width="340" height="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
