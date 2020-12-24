@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T02:24:00.200Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BYUnwbMuekERUNJo0Y23" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T08:08:47.140Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="rHvrzO8yBSF4SvnEOAX6" version="14.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2225" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4821" dy="2760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="1Uik45kLceN-WnxneO16-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;日内处理/EOD处理-调账处理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="490" y="-310" width="260" height="40" as="geometry" />
+          <mxGeometry x="499" y="-1100" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;shadow=0;strokeColor=#FF6666;entryX=-0.016;entryY=0.411;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-18" target="l4X3YuBK7rbhBfaj7fvv-23" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="832.5" y="2" as="targetPoint" />
+            <mxPoint x="841.5" y="-788" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770.5" y="4" />
-              <mxPoint x="770.5" y="2" />
-              <mxPoint x="839.5" y="2" />
+              <mxPoint x="779.5" y="-786" />
+              <mxPoint x="779.5" y="-788" />
+              <mxPoint x="848.5" y="-788" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -23,15 +23,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-3" value="FIX" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FF9763;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="327.97" y="-78.80000000000001" width="120" height="80" as="geometry" />
+          <mxGeometry x="336.97" y="-868.8" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="400" as="targetPoint" />
+            <mxPoint x="499" y="-390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-10" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="440" y="290" width="100" height="60" as="geometry" />
+          <mxGeometry x="449" y="-500" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-13" target="1Uik45kLceN-WnxneO16-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -40,34 +40,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-13" value="type类型" style="rhombus;whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="450" y="400" width="80" height="80" as="geometry" />
+          <mxGeometry x="459" y="-390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-14" target="1Uik45kLceN-WnxneO16-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-14" value="correction&lt;br&gt;修改" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="270" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="279" y="-380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-16" target="1Uik45kLceN-WnxneO16-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-16" value="cancel&lt;br&gt;取消" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="590" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="599" y="-380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DPZnmQHG7aTlUrMJ72Gz-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-18" target="1Uik45kLceN-WnxneO16-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-18" value="新建日志记录&lt;br&gt;一条correction数据" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="270" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="279" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-23" value="&lt;u&gt;调用交易引擎-&lt;br&gt;进行资产变更、fix消息最先达到交易引擎、&lt;br&gt;已经触发了更新资产、不需要我们调用触发&lt;/u&gt;" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="65" y="700" width="285" height="60" as="geometry" />
+          <mxGeometry x="74" y="-90" width="285" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-29" value="新建日志记录&lt;br&gt;一条type=correction数据" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="590" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="599" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-31" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;span&gt;记录日志&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;t_execution_fix_break_log{&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;id&quot;:&quot;主键&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;original_exec_id&quot;:&quot;old_execution_Id&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;order_id&quot;:&quot;订单id&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;sub_order_id&quot;:&quot;子订单id&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;exec_order_id&quot;:&quot;执行订单id&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;account_id&quot;:&quot;账户id&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;customer_id&quot;:&quot;客户id&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;ticker_id&quot;:&quot;标的id&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;trade_side&quot;:&quot;交易方向&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;type&quot;:&quot;open/close&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;exec_type&quot;:&quot;trade_cancel&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;total_quantity&quot;:&quot;总建仓数据&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;remain_quantity&quot;:&quot;建仓: 表示剩余未平数量, 平仓: 和totalQuantity相同&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;strike_price&quot;:&quot;成交价&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;symbol&quot;:&quot;标的属性&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;status&quot;:&quot;状态&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;reason_code&quot;:&quot;trade_cancel&quot;,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&quot;content&quot;:&quot;请求的相关参数&quot;,&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&quot;pre_exec_info&quot;:&quot;发生之前的execution相关信息存储&quot;,&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;&quot;create_time&quot;:&quot;创建时间&quot;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/blockquote&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="722.5" y="270" width="430" height="340" as="geometry" />
+          <mxGeometry x="731.5" y="-520" width="430" height="340" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-33" target="1Uik45kLceN-WnxneO16-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -79,34 +79,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-33" value="记录exec_id --&lt;br&gt;盘后订单execution&lt;br&gt;重排" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="440" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="449" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-35" value="结束" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="447.97" y="860" width="120" height="50" as="geometry" />
+          <mxGeometry x="456.97" y="70" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-37" value="存储DB" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="670" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="679" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-39" value="&lt;div&gt;需要重排execId数据&lt;/div&gt;&lt;div&gt;t_replay_execution&lt;span&gt;{&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;id&quot;:&quot;主键&quot;,&lt;/div&gt;&lt;div&gt;&quot;execId&quot;:&quot;执行订单id，如果存在重复的，程序去重处理&quot;,&lt;/div&gt;&lt;div&gt;&quot;status&quot;:&quot;是否已经执行过0未执行 1已执行&quot;,&lt;/div&gt;&lt;div&gt;&quot;type&quot;:&quot;类型 1 fix日内 2 fix Eod&quot;,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;create_time&quot;:&quot;创建时间&quot;,&lt;/div&gt;&lt;div&gt;&quot;update_time&quot;:&quot;更新时间&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="800" y="660" width="320" height="150" as="geometry" />
+          <mxGeometry x="809" y="-130" width="320" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-40" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;日内处理/EOD处理-execution重排处理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="335" y="990" width="330" height="10" as="geometry" />
+          <mxGeometry x="344" y="200" width="330" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-41" target="1Uik45kLceN-WnxneO16-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-41" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="450" y="1040" width="100" height="60" as="geometry" />
+          <mxGeometry x="459" y="250" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-42" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="515" y="1520" width="100" height="60" as="geometry" />
+          <mxGeometry x="524" y="730" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-43" target="1Uik45kLceN-WnxneO16-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-43" value="定时任务启动/或者人为触发，&lt;br&gt;检测是否存在&lt;span style=&quot;text-align: left&quot;&gt;重排数据&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;t_replay_execution&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;需要处理&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="415" y="1140" width="170" height="70" as="geometry" />
+          <mxGeometry x="424" y="350" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-49" value="不存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-45" target="1Uik45kLceN-WnxneO16-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -115,22 +115,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-45" value="是否存在重排&lt;br&gt;数据需要执行" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="450" y="1240" width="100" height="100" as="geometry" />
+          <mxGeometry x="459" y="450" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-47" value="&lt;b&gt;在送清算之前，进行重排处理。&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="180" y="1100" width="180" as="geometry" />
+          <mxGeometry x="189" y="310" width="180" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-48" target="1Uik45kLceN-WnxneO16-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-48" value="发送通知告知&lt;br&gt;相关人员" style="whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="505" y="1420" width="120" height="60" as="geometry" />
+          <mxGeometry x="514" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-51" target="1Uik45kLceN-WnxneO16-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-51" value="按着execOrderId取出execution 按着bizoffset排序" style="whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="260" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="269" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-53" target="1Uik45kLceN-WnxneO16-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -139,19 +139,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-53" value="进行数据的重放&lt;br&gt;exection_log、&lt;br&gt;execution &lt;br&gt;相关重放数据.&lt;br&gt;update之前的executionId&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="230" y="1360" width="179.06" height="70" as="geometry" />
+          <mxGeometry x="239" y="570" width="179.06" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-57" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;清算商调账&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350" y="1610" width="330" height="10" as="geometry" />
+          <mxGeometry x="359" y="820" width="330" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-59" target="1Uik45kLceN-WnxneO16-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-59" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="480" y="1790" width="100" height="50" as="geometry" />
+          <mxGeometry x="489" y="1000" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-60" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="640" y="2497" width="100" height="46" as="geometry" />
+          <mxGeometry x="649" y="1707" width="100" height="46" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-61" target="1Uik45kLceN-WnxneO16-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -163,103 +163,103 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-61" value="type" style="rhombus;whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="480" y="1894" width="100" height="50" as="geometry" />
+          <mxGeometry x="489" y="1104" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-63" target="1Uik45kLceN-WnxneO16-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-63" value="Trade Cancel&lt;br&gt;取消execution" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="680" y="1889" width="120" height="60" as="geometry" />
+          <mxGeometry x="689" y="1099" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-65" target="1Uik45kLceN-WnxneO16-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-65" value="Trade Correction&lt;br&gt;修改记录&lt;br&gt;成交价格不对" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="246.24" y="1889" width="120" height="60" as="geometry" />
+          <mxGeometry x="255.24" y="1099" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-67" target="1Uik45kLceN-WnxneO16-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-67" value="Trade Cancel rebuild&lt;br&gt;取消订单-重新下单" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="470" y="2004" width="120" height="60" as="geometry" />
+          <mxGeometry x="479" y="1214" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-69" target="1Uik45kLceN-WnxneO16-77" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="2360" />
-              <mxPoint x="470" y="2360" />
+              <mxPoint x="134" y="1570" />
+              <mxPoint x="479" y="1570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-69" value="新增一条log&lt;br&gt;直接修改execution的记录" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="20" y="1886.5" width="120" height="65" as="geometry" />
+          <mxGeometry x="74" y="1094" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-71" target="1Uik45kLceN-WnxneO16-77" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1004" y="1949" />
-              <mxPoint x="1060" y="1949" />
-              <mxPoint x="1060" y="2354" />
+              <mxPoint x="1013" y="1159" />
+              <mxPoint x="1069" y="1159" />
+              <mxPoint x="1069" y="1564" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-71" value="新增一条break_log&lt;br&gt;直接修改execution记录" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="940" y="1889" width="127.5" height="63.5" as="geometry" />
+          <mxGeometry x="949" y="1099" width="127.5" height="63.5" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-73" target="1Uik45kLceN-WnxneO16-77" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="526" y="2262" />
-              <mxPoint x="530" y="2262" />
+              <mxPoint x="535" y="1472" />
+              <mxPoint x="539" y="1472" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-73" value="新增两条记录break_log记录&lt;br&gt;一条cancel、一条rebuild&lt;br&gt;修改的成交数量" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="372.5" y="2144" width="187.5" height="56" as="geometry" />
+          <mxGeometry x="381.5" y="1354" width="187.5" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-76" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;记录日志&lt;/div&gt;&lt;div&gt;t_execution_fix_break_log{&lt;/div&gt;&lt;div&gt;&quot;id&quot;:&quot;主键&quot;,&lt;/div&gt;&lt;div&gt;&quot;original_exec_id&quot;:&quot;old_execution_Id&quot;,&lt;/div&gt;&lt;div&gt;&quot;order_id&quot;:&quot;订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;sub_order_id&quot;:&quot;子订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_order_id&quot;:&quot;执行订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;account_id&quot;:&quot;账户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;customer_id&quot;:&quot;客户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;ticker_id&quot;:&quot;标的id&quot;,&lt;/div&gt;&lt;div&gt;&quot;trade_side&quot;:&quot;交易方向&quot;,&lt;/div&gt;&lt;div&gt;&quot;type&quot;:&quot;open/close&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_type&quot;:&quot;trade_break_correction&quot;,&lt;/div&gt;&lt;div&gt;&quot;total_quantity&quot;:&quot;总建仓数据&quot;,&lt;/div&gt;&lt;div&gt;&quot;remain_quantity&quot;:&quot;建仓: 表示剩余未平数量, 平仓: 和totalQuantity相同&quot;,&lt;/div&gt;&lt;div&gt;&quot;strike_price&quot;:&quot;成交价&quot;,&lt;/div&gt;&lt;div&gt;&quot;symbol&quot;:&quot;标的属性&quot;,&lt;/div&gt;&lt;div&gt;&quot;status&quot;:&quot;状态&quot;,&lt;/div&gt;&lt;div&gt;&quot;reason_code&quot;:&quot;trade_break_correction&quot;,&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;content&quot;:&quot;请求的相关参数&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;pre_exec_info&quot;:&quot;发生之前的execution相关信息存储&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&quot;create_time&quot;:&quot;创建时间&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/blockquote&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-420" y="1770" width="430" height="350" as="geometry" />
+          <mxGeometry x="-371" y="980" width="430" height="350" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-77" target="1Uik45kLceN-WnxneO16-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-77" value="调用交易引擎-&lt;br&gt;进行资产变更&lt;br&gt;盘后是否能？" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="470" y="2324" width="120" height="60" as="geometry" />
+          <mxGeometry x="479" y="1534" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-83" target="l4X3YuBK7rbhBfaj7fvv-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Uik45kLceN-WnxneO16-83" value="execution重排" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="470" y="2410" width="120" height="60" as="geometry" />
+          <mxGeometry x="479" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l4X3YuBK7rbhBfaj7fvv-0" value="&lt;div&gt;记录日志&lt;/div&gt;&lt;div&gt;t_execution_fix_break_log{&lt;/div&gt;&lt;div&gt;&quot;id&quot;:&quot;主键&quot;,&lt;/div&gt;&lt;div&gt;&quot;original_exec_id&quot;:&quot;old_execution_Id&quot;,&lt;/div&gt;&lt;div&gt;&quot;order_id&quot;:&quot;订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;sub_order_id&quot;:&quot;子订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_order_id&quot;:&quot;执行订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;account_id&quot;:&quot;账户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;customer_id&quot;:&quot;客户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;ticker_id&quot;:&quot;标的id&quot;,&lt;/div&gt;&lt;div&gt;&quot;trade_side&quot;:&quot;交易方向&quot;,&lt;/div&gt;&lt;div&gt;&quot;type&quot;:&quot;open/close&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_type&quot;:&quot;trade_correction&quot;,&lt;/div&gt;&lt;div&gt;&quot;total_quantity&quot;:&quot;总建仓数据&quot;,&lt;/div&gt;&lt;div&gt;&quot;remain_quantity&quot;:&quot;建仓: 表示剩余未平数量, 平仓: 和totalQuantity相同&quot;,&lt;/div&gt;&lt;div&gt;&quot;strike_price&quot;:&quot;成交价&quot;,&lt;/div&gt;&lt;div&gt;&quot;symbol&quot;:&quot;标的属性&quot;,&lt;/div&gt;&lt;div&gt;&quot;status&quot;:&quot;状态&quot;,&lt;/div&gt;&lt;div&gt;&quot;reason_code&quot;:&quot;trade_correction&quot;,&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;content&quot;:&quot;请求的相关参数&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;pre_exec_info&quot;:&quot;发生之前的execution相关信息存储&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&quot;create_time&quot;:&quot;创建时间&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-270" y="300" width="500" height="370" as="geometry" />
+        <mxCell id="l4X3YuBK7rbhBfaj7fvv-0" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;记录日志&lt;/div&gt;&lt;div&gt;t_execution_fix_break_log{&lt;/div&gt;&lt;div&gt;&quot;id&quot;:&quot;主键&quot;,&lt;/div&gt;&lt;div&gt;&quot;original_exec_id&quot;:&quot;old_execution_Id&quot;,&lt;/div&gt;&lt;div&gt;&quot;order_id&quot;:&quot;订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;sub_order_id&quot;:&quot;子订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_order_id&quot;:&quot;执行订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;account_id&quot;:&quot;账户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;customer_id&quot;:&quot;客户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;ticker_id&quot;:&quot;标的id&quot;,&lt;/div&gt;&lt;div&gt;&quot;trade_side&quot;:&quot;交易方向&quot;,&lt;/div&gt;&lt;div&gt;&quot;type&quot;:&quot;open/close&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_type&quot;:&quot;trade_correction&quot;,&lt;/div&gt;&lt;div&gt;&quot;total_quantity&quot;:&quot;总建仓数据&quot;,&lt;/div&gt;&lt;div&gt;&quot;remain_quantity&quot;:&quot;建仓: 表示剩余未平数量, 平仓: 和totalQuantity相同&quot;,&lt;/div&gt;&lt;div&gt;&quot;strike_price&quot;:&quot;成交价&quot;,&lt;/div&gt;&lt;div&gt;&quot;symbol&quot;:&quot;标的属性&quot;,&lt;/div&gt;&lt;div&gt;&quot;status&quot;:&quot;状态&quot;,&lt;/div&gt;&lt;div&gt;&quot;reason_code&quot;:&quot;trade_correction&quot;,&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;content&quot;:&quot;请求的相关参数&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;pre_exec_info&quot;:&quot;发生之前的execution相关信息存储&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&quot;create_time&quot;:&quot;创建时间&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/blockquote&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-244.76" y="-490" width="473.76" height="340" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-8" value="execution重排&lt;br&gt;execution的count不变&lt;br&gt;要保证execId不变化，&lt;br&gt;做更新操作" style="whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;strokeColor=#FF6666;fillColor=#FFCCCC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-27.18" y="1360" width="147.18" height="70" as="geometry" />
+          <mxGeometry x="-18.18" y="570" width="147.18" height="70" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-10" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;具体的fix消息返回内容的&lt;/span&gt;&lt;span&gt;具体格式？&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;因为涉及到两个过程 日内/EOD处理&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;execution- 新增-字段&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;exec_type&lt;/b&gt;&amp;nbsp;= (Transaction 默认、trade_cancel 取消、trade_correction 修正、rebuild_cancel、rebuild_rebuild、break_banance_close、break_banance)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;exec_status&lt;/b&gt;&amp;nbsp;(新增类型 normal、break_cancel、break_correction、break_cancel_rebuild、closed)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;reason_code&lt;/b&gt;&amp;nbsp;( Trade_break_Cancel、Trade_break_Correction、Trade_cancel_rebuild)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;original_exec_id&lt;/b&gt;:&quot;原始记录的execId,能否直接用ref_open_id&quot;,&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-700" y="480" width="410" height="250" as="geometry" />
+          <mxGeometry x="-691" y="-310" width="410" height="250" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-11" target="1Uik45kLceN-WnxneO16-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-11" value="更新&lt;br&gt;order、&lt;br&gt;sub_order、exec_order" style="whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="470" y="2490" width="120" height="60" as="geometry" />
+          <mxGeometry x="479" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-16" value="" style="shape=link;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-450" y="1670" as="sourcePoint" />
-            <mxPoint x="1338" y="1660" as="targetPoint" />
+            <mxPoint x="-441" y="880" as="sourcePoint" />
+            <mxPoint x="1347" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-18" value="&lt;b&gt;Fix type=cancel/correction&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#1A1A1A;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="541.56" y="-10" width="170" height="20" as="geometry" />
+          <mxGeometry x="550.56" y="-800" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.017;entryY=0.838;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#1A1A1A;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Uik45kLceN-WnxneO16-3" target="l4X3YuBK7rbhBfaj7fvv-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="443.1699999999996" y="-22.799999999999955" as="sourcePoint" />
-            <mxPoint x="830.46" y="-12.960000000000036" as="targetPoint" />
+            <mxPoint x="452.1699999999996" y="-812.8" as="sourcePoint" />
+            <mxPoint x="839.46" y="-802.96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.068;entryY=0.937;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#FF9999;fillColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-21" target="l4X3YuBK7rbhBfaj7fvv-23" edge="1">
@@ -271,11 +271,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-21" value="清算商" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFCC99;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="345.5" y="60" width="120" height="80" as="geometry" />
+          <mxGeometry x="354.5" y="-730" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#1A1A1A;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.068;exitY=0.063;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-23" target="1Uik45kLceN-WnxneO16-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="533.44" y="-70" as="targetPoint" />
+            <mxPoint x="542.44" y="-860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-27" value="送FIX 执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];shadow=0;" parent="l4X3YuBK7rbhBfaj7fvv-25" vertex="1" connectable="0">
@@ -286,7 +286,7 @@
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#1A1A1A;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-23" target="l4X3YuBK7rbhBfaj7fvv-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="842.6800000000001" y="80" />
+              <mxPoint x="851.6800000000001" y="-710" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -296,7 +296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-23" value="WEBULL" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#1A1A1A;fillColor=#CCFFFF;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="842.5" y="-70" width="190" height="190" as="geometry" />
+          <mxGeometry x="851.5" y="-860" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#1A1A1A;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-29" target="l4X3YuBK7rbhBfaj7fvv-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -305,37 +305,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="262.5" y="-88.8" width="50" height="100" as="geometry" />
+          <mxGeometry x="271.5" y="-878.8" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-34" value="日内" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="112.5" y="-100" width="80" height="30" as="geometry" />
+          <mxGeometry x="121.5" y="-890" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#1A1A1A;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l4X3YuBK7rbhBfaj7fvv-40" target="l4X3YuBK7rbhBfaj7fvv-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="262.5" y="50" width="50" height="100" as="geometry" />
+          <mxGeometry x="271.5" y="-740" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-41" value="清算处理阶段" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="97.5" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="106.5" y="-720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l4X3YuBK7rbhBfaj7fvv-44" value="盘后fix EOD" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="112.5" y="-18.8" width="80" height="30" as="geometry" />
+          <mxGeometry x="121.5" y="-808.8" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="adp1p2bU9cSPGHExOtuO-2" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;记录日志&lt;/div&gt;&lt;div&gt;t_execution_fix_break_log{&lt;/div&gt;&lt;div&gt;&quot;id&quot;:&quot;主键&quot;,&lt;/div&gt;&lt;div&gt;&quot;original_exec_id&quot;:&quot;old_execution_Id&quot;,&lt;/div&gt;&lt;div&gt;&quot;order_id&quot;:&quot;订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;sub_order_id&quot;:&quot;子订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_order_id&quot;:&quot;执行订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;account_id&quot;:&quot;账户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;customer_id&quot;:&quot;客户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;ticker_id&quot;:&quot;标的id&quot;,&lt;/div&gt;&lt;div&gt;&quot;trade_side&quot;:&quot;交易方向&quot;,&lt;/div&gt;&lt;div&gt;&quot;type&quot;:&quot;open/close&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_type&quot;:&quot;trade_break_correction&quot;,&lt;/div&gt;&lt;div&gt;&quot;total_quantity&quot;:&quot;总建仓数据&quot;,&lt;/div&gt;&lt;div&gt;&quot;remain_quantity&quot;:&quot;建仓: 表示剩余未平数量, 平仓: 和totalQuantity相同&quot;,&lt;/div&gt;&lt;div&gt;&quot;strike_price&quot;:&quot;成交价&quot;,&lt;/div&gt;&lt;div&gt;&quot;symbol&quot;:&quot;标的属性&quot;,&lt;/div&gt;&lt;div&gt;&quot;status&quot;:&quot;状态&quot;,&lt;/div&gt;&lt;div&gt;&quot;reason_code&quot;:&quot;trade_break_concel&quot;,&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;content&quot;:&quot;请求的相关参数&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;pre_exec_info&quot;:&quot;发生之前的execution相关信息存储&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&quot;create_time&quot;:&quot;创建时间&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/blockquote&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="1760" width="430" height="340" as="geometry" />
+          <mxGeometry x="1089" y="970" width="430" height="340" as="geometry" />
         </mxCell>
         <mxCell id="adp1p2bU9cSPGHExOtuO-6" value="&lt;div style=&quot;text-align: left&quot;&gt;1、针对execution_id,不存在数据的时候，在日志记录中没有数据的时候，第一次需要将execution的记录存入log，然后将修改的记录存入,&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;2、针对execution_id,存在数据时候，则新增一条记录即可&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF6666;fillColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-694" y="2540" width="759" height="60" as="geometry" />
+          <mxGeometry x="-661" y="1780" width="759" height="60" as="geometry" />
         </mxCell>
         <mxCell id="adp1p2bU9cSPGHExOtuO-7" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;记录日志&lt;/div&gt;&lt;div&gt;t_execution_fix_break_log{&lt;/div&gt;&lt;div&gt;&quot;id&quot;:&quot;主键&quot;,&lt;/div&gt;&lt;div&gt;&quot;original_exec_id&quot;:&quot;old_execution_Id&quot;,&lt;/div&gt;&lt;div&gt;&quot;order_id&quot;:&quot;订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;sub_order_id&quot;:&quot;子订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_order_id&quot;:&quot;执行订单id&quot;,&lt;/div&gt;&lt;div&gt;&quot;account_id&quot;:&quot;账户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;customer_id&quot;:&quot;客户id&quot;,&lt;/div&gt;&lt;div&gt;&quot;ticker_id&quot;:&quot;标的id&quot;,&lt;/div&gt;&lt;div&gt;&quot;trade_side&quot;:&quot;交易方向&quot;,&lt;/div&gt;&lt;div&gt;&quot;type&quot;:&quot;open/close&quot;,&lt;/div&gt;&lt;div&gt;&quot;exec_type&quot;:&quot;trade_break_correction&quot;,&lt;/div&gt;&lt;div&gt;&quot;total_quantity&quot;:&quot;总建仓数据&quot;,&lt;/div&gt;&lt;div&gt;&quot;remain_quantity&quot;:&quot;建仓: 表示剩余未平数量, 平仓: 和totalQuantity相同&quot;,&lt;/div&gt;&lt;div&gt;&quot;strike_price&quot;:&quot;成交价&quot;,&lt;/div&gt;&lt;div&gt;&quot;symbol&quot;:&quot;标的属性&quot;,&lt;/div&gt;&lt;div&gt;&quot;status&quot;:&quot;状态&quot;,&lt;/div&gt;&lt;div&gt;&quot;reason_code&quot;:&quot;trade_break_concel&quot;,&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;content&quot;:&quot;请求的相关参数&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;pre_exec_info&quot;:&quot;发生之前的execution相关信息存储&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&quot;create_time&quot;:&quot;创建时间&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/blockquote&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="607.5" y="1990" width="442.5" height="330" as="geometry" />
+          <mxGeometry x="616.5" y="1200" width="442.5" height="330" as="geometry" />
         </mxCell>
         <mxCell id="adp1p2bU9cSPGHExOtuO-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="adp1p2bU9cSPGHExOtuO-8" target="1Uik45kLceN-WnxneO16-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="adp1p2bU9cSPGHExOtuO-8" value="更新&lt;br&gt;order、&lt;br&gt;sub_order、exec_order" style="whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="447.97" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="456.97" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
